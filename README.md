@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kerimkosem
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Web development
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me https://www.linkedin.com/in/kerim-k%C3%B6sem-02252278/
 
